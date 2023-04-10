@@ -1,0 +1,8 @@
+#SELECT * FROM users;
+#select * from users;
+#insert into users (name, age, email) values('Anna',22,'anna98romanova@gmail.com');
+#select name,age from users where id = 2;
+#update users set name='Steve', age = 55 where id = 1;
+#select * from users;
+#delete from users where id = 1;
+#select * from users;
