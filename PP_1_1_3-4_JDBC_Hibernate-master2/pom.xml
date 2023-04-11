@@ -54,8 +54,18 @@
                 <version>1.18.20</version>
                 <scope>provided</scope>
             </dependency>
+        <dependency>
+            <groupId>hibernate</groupId>
+            <artifactId>hibernate</artifactId>
+            <version>3.1rc2</version>
+        </dependency>
+        <dependency>
+            <groupId>hibernate</groupId>
+            <artifactId>hibernate-tools-hibernate</artifactId>
+            <version>3.0.0.alpha4a</version>
+        </dependency>
 
-     </dependencies>
+    </dependencies>
 
 
 </project>
